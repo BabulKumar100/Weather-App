@@ -47,8 +47,8 @@ This project is licensed under the MIT License.
 
 # Connect with Me :
 
-Linkedln: [Babul Kumar](www.linkedin.com/in/babulkumar100)
+- Linkedln: [Babul Kumar](https://www.linkedin.com/in/babulkumar100)
 
-GitHub: [BabulKumar100 ]([@BabulKumar100)
+- GitHub:   [@BabulKumar100](https://github.com/BabulKumar100)
 
    

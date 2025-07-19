@@ -49,6 +49,6 @@ This project is licensed under the MIT License.
 
 Linkedln: [Babul Kumar](www.linkedin.com/in/babulkumar100)
 
-GitHub: [@BabulKumar100 ](@BabulKumar100])
+GitHub: [BabulKumar100 ]([@BabulKumar100)
 
    
